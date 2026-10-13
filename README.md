@@ -34,13 +34,13 @@ npm run dev        # API on :4000, client on :5173
 
 ### Scripts
 
-| Command                | What it does                           |
-| ---------------------- | -------------------------------------- |
-| `npm run dev`          | Run server and client together         |
-| `npm run build`        | Build the client for production        |
-| `npm run lint`         | Lint the whole repo                    |
-| `npm run format`       | Format with Prettier                   |
-| `npm test`             | Run tests in all workspaces _(Stage 5)_ |
+| Command          | What it does                            |
+| ---------------- | --------------------------------------- |
+| `npm run dev`    | Run server and client together          |
+| `npm run build`  | Build the client for production         |
+| `npm run lint`   | Lint the whole repo                     |
+| `npm run format` | Format with Prettier                    |
+| `npm test`       | Run tests in all workspaces _(Stage 5)_ |
 
 ## Data _(coming)_
 
